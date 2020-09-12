@@ -1,0 +1,1 @@
+Escreva um teste funcional e verifique se ele falha. Em seguida, divida o problema em partes e escreva um teste de unidade para cada uma delas, escreva também o código para cada parte. Verifique se os testes de unidade passam e, então, seu teste funcional também deve passar.
