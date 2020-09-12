@@ -1,0 +1,3 @@
+Teste Funcionais testam os requisitos funcionais da aplicação, enquanto Testes de Unidade testa a menor unidade da funcionalidade. 
+
+Testes Funcionais são mais complexos e difíceis de depurar, enquanto Testes de Unidade são mais simples e de fácil depuração.
